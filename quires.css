@@ -1,0 +1,25 @@
+@media only screen and (max-width : 780px){
+footer,header{
+    width: 100%;
+}
+.skills p{
+    font-size: 10px;
+    width: 70%;
+}
+.section p{
+   font-size: 10px; 
+}
+.navbar #links li{
+    font-size: 15px;
+}
+.f1 h2{
+    font-size: 20px;
+}
+.f1{
+    gap: 88px;
+}
+.about p{
+    font-size: 15px;
+}
+
+}
